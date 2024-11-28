@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaurya-bhatia-sb
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning AI and ML
-- 📫 How to reach me ...Sbhatia_be22@thapar.edu
+- 📫 How to reach me : Sbhatia_be22@thapar.edu
 - 😄 Pronouns: He/Him
 
 
