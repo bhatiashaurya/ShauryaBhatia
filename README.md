@@ -1,7 +1,7 @@
 
-# 🌟 Welcome to Shaurya Bhatia's GitHub 🌟  
+#  Welcome to Shaurya Bhatia's GitHub 🌟  
 
-Hi there! 👋 I'm **Shaurya Bhatia**, a passionate **Computer Science student** and aspiring tech enthusiast. Here, you'll find a collection of my projects, assignments, and explorations in software development, data science, and beyond. 🚀  
+ I'm **Shaurya Bhatia**, a passionate **Computer Engineering student** and aspiring tech enthusiast. Here, you'll find a collection of my projects, assignments, and explorations in software development, data science, and beyond.  
 
 ---
 
@@ -15,7 +15,7 @@ Hi there! 👋 I'm **Shaurya Bhatia**, a passionate **Computer Science student**
 
 ---
 
-## 📂 Featured Projects  
+##  Featured Projects  
 
 ### 🔐 [Personal Vault](https://github.com/shaurya-bhatia-sb/Personal_vault)  
 A secure and user-friendly secret management tool built using Flask and hosted on AWS.  
