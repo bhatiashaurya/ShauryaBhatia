@@ -1,5 +1,5 @@
 
-#  Welcome to Shaurya Bhatia's GitHub 🌟  
+#  Welcome to Shaurya Bhatia's GitHub 
 
  I'm **Shaurya Bhatia**, a passionate **Computer Engineering student** and aspiring tech enthusiast. Here, you'll find a collection of my projects, assignments, and explorations in software development, data science, and beyond.  
 
