@@ -1,5 +1,5 @@
 <div align="center"> 
-    <img src="https://raw.githubusercontent.com/shaurya-bhatia-sb/shaurya-bhatia-sb/main/banner.jpg" alt="Shaurya Bhatia Banner">
+    <img src="https://raw.githubusercontent.com/shaurya-bhatia-sb/shaurya-bhatia-sb/main/banner/banner.png" alt="Shaurya Bhatia Banner">
 </div>
 
 <h1 align="center">
