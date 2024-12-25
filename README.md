@@ -6,11 +6,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Shaurya+Bhatia!;" />
 </h1>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shaurya-bhatia-sb/count.svg" />
+</p>
+
+
 <h3 align="center">A Computer Engineering student passionate about building impactful solutions with modern technologies and cloud platforms.</h3>
 
 ---
 
 <div align="center">
+
  
  🔭 I’m currently working on **Cloud Computing Projects & Flask Web Apps**
  
@@ -18,9 +25,9 @@
 
  💬 Ask me about **Python, Flask, AWS, and Web Development**
 
- ⚡ Fun fact: **"There are 10 types of people: those who understand binary and those who don't."**
+ ⚡ Fun fact: **"I am all rounder engineer, athlete, bodybuilder, reader and many more incoming."**
 
- 📊 **GitHub Contributions: **10+ repositories** built.
+ 📊 **GitHub Contributions: **8+ repositories** built.
 
 </div>
 
@@ -29,10 +36,10 @@
 ## 📫 **Let's Connect**
 
 <div align="center"> 
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:sbhatia.s.bhatia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/shaurya-bhatia-b14005265" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://raw.githubusercontent.com/shaurya-bhatia-sb/shaurya-bhatia-sb/main/Shaurya_Resume.pdf" target="_blank">
@@ -45,9 +52,9 @@
 ## ⚒️ **Languages, Frameworks & Tools**
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,flask,aws,html,css,bootstrap,js,github,git,vscode,figma,cloudflare" /><br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,mysql,linux,docker,kubernetes,postman,nginx,nodejs,react" /><br>
-    <img src="https://skillicons.dev/icons?i=java,azure,graphql,heroku,redis,sqlite,tailwind,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=python,flask,aws,googlecloud,html,css,bootstrap,js,github,git,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,mysql,linux,docker,kubernetes,nginx,nodejs,react" /><br>
+    <img src="https://skillicons.dev/icons?i=java,graphql,heroku,redis,sqlite,androidstudio" />
 </div>
 
 ---
