@@ -1,5 +1,5 @@
 <div align="center"> 
-    <img src="https://raw.githubusercontent.com/bhatiashaurya/shauryabhatia/main/Banner/Banner.png" alt="Shaurya Bhatia Banner">
+    <img src="https://raw.githubusercontent.com/bhatiashaurya/bhatiashaurya/main/Banner/Banner.png" alt="Shaurya Bhatia Banner">
 </div>
 
 <h1 align="center">
@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/shaurya-bhatia-b14005265" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://raw.githubusercontent.com/bhatiashaurya/ShauryaBhatia/main/Resume/Resume.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/bhatiashaurya/bhatiashaurya/main/Resume/Resume.pdf" target="_blank">
      <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
